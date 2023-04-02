@@ -1,0 +1,3 @@
+[submodule "orioks"]
+	path = orioks
+	url = https://github.com/kirasok/orioks-app
