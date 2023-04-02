@@ -11,6 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2 # Only works with v2
       - uses: subosito/flutter-action@v1
+      - name: test
+        run: |
+          pwd
+          echo $working-directory
+          ${{inputs.working-directory}}
+        working-directory: ./orioks/
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
           workingDir: ./orioks/
