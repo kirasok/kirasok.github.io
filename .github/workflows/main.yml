@@ -10,10 +10,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2 # Only works with v2
-      - name: Checkout submodules
-        uses: srt32/git-actions@v0.0.3
         with:
-          args: git submodule update --init --recursive
+          submodules: recursive
       - uses: subosito/flutter-action@v1
       - name: test
         run: |
