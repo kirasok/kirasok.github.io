@@ -15,7 +15,7 @@ jobs:
         run: |
           pwd
           echo $working-directory
-          ${{inputs.working-directory}}
+          echo ${{inputs.working-directory}}
         working-directory: ./orioks/
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
