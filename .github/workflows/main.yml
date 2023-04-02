@@ -1,8 +1,8 @@
-name: Gh-Pages
+name: gh-pages-flutter
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
   build:
