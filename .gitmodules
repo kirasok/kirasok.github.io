@@ -2,3 +2,7 @@
 	path = orioks
 	url = https://github.com/kirasok/orioks-app
 	branch = gh-pages
+[submodule "recipes"]
+	path = recipes
+	url = https://github.com/kirasok/recipes-app
+	branch = gh-pages
