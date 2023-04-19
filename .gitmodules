@@ -6,3 +6,6 @@
 	path = recipes
 	url = https://github.com/kirasok/recipes-app
 	branch = gh-pages
+[submodule "startpage"]
+	path = startpage
+	url = https://github.com/kirasok/startpage
