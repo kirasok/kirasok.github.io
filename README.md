@@ -3,3 +3,5 @@
 My Github Pages Site
 
 ## Credits
+
+- [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio)
