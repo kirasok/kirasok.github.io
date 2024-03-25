@@ -4,4 +4,4 @@ My Github Pages Site
 
 ## Credits
 
-- [cobiwave/simplefolio](https://github.com/cobiwave/simplefolio)
+- [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio)
